@@ -1,5 +1,4 @@
-<?php
-/*
+<?323718257:AAF2JeEqYw1nEPlgNqnYqKxh8n7cyEC1YZ8/*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
 دست هیچ بنی بشری نیست و نخواهد بود
@@ -33,4 +32,4 @@ Telegram Channel: https://telegram.me/PvResan
 
 یا علی خدا قوت
 */
-?>
+?>202791472
